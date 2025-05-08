@@ -1,0 +1,75 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ---- Environment ----
+venv/
+env/
+ENV/
+.venv/
+.pip/
+.python-version
+
+# ---- VS Code ----
+.vscode/
+
+# ---- Pytest cache ----
+.pytest_cache/
+
+# ---- MyPy ----
+.mypy_cache/
+
+# ---- Jupyter Notebooks ----
+.ipynb_checkpoints
+
+# ---- Logs ----
+*.log
+
+# ---- Environment Variables ----
+.env
+*.env
+
+# ---- Mac OS ----
+.DS_Store
+
+# ---- IDE ----
+.idea/
+
+# ---- Backup files ----
+*.bak
+*.swp
+*.swo
+
+# ---- Coverage ----
+htmlcov/
+coverage.xml
+*.cover
+.cache
+
+# ---- Distribution / Packaging ----
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ---- Pypoetry ----
+poetry.lock
+
+# ---- Others ----
+*.sqlite3
+*.db
+*.pid
